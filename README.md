@@ -79,7 +79,9 @@ int main() {
 ```
 o/p:
 
-![image](https://github.com/user-attachments/assets/b9b6a36a-c870-4c7d-90f8-2e93e2478e93)
+![Screenshot 2024-10-22 194051](https://github.com/user-attachments/assets/7046061d-9878-4b5c-9a7d-7ab68e264b63)
+
+
 
 2.Using classes
 ```
@@ -146,7 +148,8 @@ int main() {
 ```
 o/p:
 
-![image](https://github.com/user-attachments/assets/f3d7ec73-ad66-4df0-bf09-64d77d54f5df)
+
+![Screenshot 2024-10-22 194155](https://github.com/user-attachments/assets/f6d32da0-925b-4087-882b-d8429080e13f)
 
 
 # Conclusion
